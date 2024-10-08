@@ -27,7 +27,7 @@ menu:
     - name: Contact ↗
       url: "https://github.com/imfing"
       weight: 3
-    - name: Search
+    - name: Hledat
       weight: 4
       params:
         type: search
